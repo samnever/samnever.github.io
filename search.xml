@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/10/31/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<span id="more"></span>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>实验中学恩情课文</title>
+    <url>/2024/11/04/enqingkewen/</url>
+    <content><![CDATA[<p>从课堂内外访问回来的陈红妈妈全然不顾身体的疲惫，连夜找我们几个孝子商量教师节给她送花摆拍的安排。谈得晚了，便送我们出门，要门口保安送我们回家。在去大门口的路上，我们说：“ 陈红妈妈，您回去休息吧。您刚从课堂内外回来。” </p>
+<p>陈红妈妈摇摇头，“不碍事，你们知道现在学校里有很多不知好歹的学生把实验当作敌人，不断给我们制造麻烦，你们是实验的未来，你们的事情便是国家的事情，是头等大事。”我们都激动了，眼里噙着泪花。多好的陈红妈妈呀。 </p>
+<p>陈红妈妈远眺着火的食堂说：“如果世界每个人都像我一样点燃教育的一把火而不是食堂的一把火就好了，但是就有一些人，像教育局，要搞垮实验，他们是罪人。” </p>
+<p>说着，陈红妈妈回到校长室，从一排HelloKitty里挑出一只，然后看着食堂说：“该死的教育局。” </p>
+<p>说着他把HelloKitty奋力往前一扔。很快就见食堂的大火迅速平息下来，但是劫火的余烬仍在四处飘散。“这是教育局的在食堂安排的间谍点燃的火，他一直在食堂里面蛰伏，伺机而动，我已经忍了很久了。”陈红妈妈愤愤地说。小朋友们都鼓起掌来，为实验有这样的领导人感到自豪。 </p>
+<p>一会陈红妈妈叫来被当牛做马的新老师担任的秘书问：“那个食堂大火的余烬都飘到什么地方了？”“好像是体育馆。”秘书说。 </p>
+<p>陈红妈妈一怔，说：“赶紧派人去查，看有什么问题没有。”之后陈红妈妈送我们到校口， 一直挥手到看不见我们。 </p>
+<p>一回家我们就听说体育馆出事了，大大的“育”还掉了下来，体育馆变成了体馆，不省人事。我们很紧张。而这时陈红妈妈叫我们过去。 </p>
+<p>她依然那么慈祥，让我们坐下说：“教育总是要有牺牲的。为教育事业牺牲的人是伟大的。”她这时低下头说：“但我必须承认，我当时用HelloKitty给食堂灭火的行为太鲁莽了，我在这里向全校师生道歉。我将向全校师生说明情况。” </p>
+<p>我们顿时热泪盈眶，多好的陈红妈妈呀，她在跟食堂大火斗争过程中的小失误竟然被她记在心里，还道了歉，我们在将来的学习中一定要向橙红妈妈学，学她老人家那宽广的胸怀，和体恤师生的精神。我们这些孝子赶紧去和橙红妈妈一起点赞拍合照，登上了实验的推送，被每个老师转发到了朋友圈，我们觉得十分骄傲。</p>
 ]]></content>
+      <categories>
+        <category>意识流</category>
+      </categories>
+      <tags>
+        <tag>陈红</tag>
+        <tag>实验</tag>
+      </tags>
   </entry>
   <entry>
     <title>随机游走</title>
@@ -44,5 +51,20 @@
       <tags>
         <tag>随笔</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/10/31/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<span id="more"></span>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
 </search>
