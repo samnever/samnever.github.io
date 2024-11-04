@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2024/10/31/hello-world/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="4344b162b05e5d6683f61b6f5f96f1d4e816a90225dfdce5e52203fe44b05c63">165d50f05814027fb7fe5e4ae8a088d86d0c1aba6d70b1044ca65dff1bf2218cbd3b930c090fc7b66d2adb6659e3ccf95194d3e32dc083e2525c89d0052fb19de71b1620ddb2e7b355e7ee5fd05404a69bda6c22a0217bd4d3d2594b3445ccdbdd7a6ee3d6676e7dd78202d7330cc589a3a37bb9a1c2ed57aa6a412412549c1174bc9e19ba7c2bde4b3a3741eefc5cc68e95b70c0a00ccc5a372d53193264017b841db02f3cb1075c920ab398c5211cb054c74f10325726f1c16e8fc83763e404b1b113d96993960687f92c8ac1d10f3fca18876cbc0fa7fb340506e08077070a07666c404b929089c6eea3c2be575036244cce40472eedda9d368ebf199068ed1801edf81f2ef3960be94fcaa3faefea541a6969a1dd75f0b309280079554b0500ceb8bddb9fe2e3702ef1887eef37b55501f49d8646c689f5191de7845e05f726a20f2bf742c0903616ba6512cb9a2dab598fa33f56efe0656a0ef415ab29d4fdce66f2b4b8b2d04fdd588f80ab2a6f1be05eebd022026147c53a13fe08dedf0e1ebf7a5a6d0fcb3be4fca14de3651dc4923cea3f4bbc6eb712f2033443f4236d2af85c634357e100c96baf4ec34cd276ffa6b4174d431d7e7eddc8a20ec0c7bc76eadf29a4e058c893d9a1bc1f7f106e7f4139bd4c648a411bad54f7ffa0692e3c34f0a23ed09ee9e4f8b1736c15ed54498192ef2b72112f78e9ec7d1f0eaaf4720f5b79c1c64eec1b712f2234725553d52a521c305d9483bc692f0d519b70fb11fbd82c7b36824e94d6a6912901ca5e3cac2bb883a7dcbd48781ac2b9812fdbe67557c43696708dd1fc07dcc13fa6e6754baed7845d3a09361c274a0f02e807ecc9587c11b39421a8e2fc3617f517afc211274a78191f29111729609fcfa78e0dbea7fa095f0a396d637c69c2d8fa1a8eb9fb9937869722a683d4e2e242f9680537e2b80f2ab56c4102849eb5e9eacfe5e4d94d7d3429822cbc69bceb8b67481ca0088e4f8d4c56987ee1a0cfd4bd2c769c6b771d84b9b948bbb5d0b0e6eaa6f6ecc32406a7383a9668a889a3e53c34cb819c2bb5645e64e3d470355f587f2450a2cf55502b79998e3b127aad9690bb78e5700f22e181faa3119470c250e203b528a04ea4c5e4fc0f278a43f98bf673c6d703f572493deb1c8f38f46443563c9440dff41e6a2e292653394604fd8b16ece94b053e927aed728eb48352994ddd62ff5be5e0771494e444c86e5e8f440785e719a36b64a5dd323e9ca3b9952868db9a5ec67204014dc0bc916c47a7a5b5163134823486756405a6091a6d55ac9c833c3547d0431fc1a2522d20f0334ed3340ae91d9d883715dceec3c2f20281638781e7708178f25025b18b82600d229bc4a9bb31ec8e9e67625fcf9e601db776d050b06bf57f7eaf7b23df15fb66550915ad7cb6cb911036fcaa9ddbcc8bbe703941f2d601eba7eef89ccf93015780950d36101b806d425932916b243676af6e40a8049b223d2ce99bd5b4a21522590469362d45f1ba193f3aa942bcee77710db82872ed8c681f244aab9b0a6f0159b8446952cfbc21c04833f51c9aedbab3a0869e12eadbb36c538cd6aabddb5ed9e5296cc94f394392b0dc86a764bb8ae2c6b518c147d7057a248f8d562fbc082200ccc7657a7b8d6150ca7ccc3cdfdc674d75273ed1a41c775e9f9560360520fd7a1584d672994c2298def855262ab2118b93b6fcafe49930239499d6459b6d563dd14273f8e1c198ac3b7946f0bc66bb15ddc94393c03b40d613cc7cb685e4f352cf5ef497ef56c65311acedc5c25f5c55b73ad456e03d4017100421212e6bf5d6e94a07f5f042ac3306f708d3465987cf15c701224256d3bd429b465100ded0bd4718518f47169cbb708d3598b4a02dea543abf764b07d5a3f0f31284f8ebfce3db0858835df14bb3a90be0063353129289fd600a1ec274158f3c7b7755f5dc1d01427dcd920b13dbba7718603b5de0188a9b77c2ae4ea46a8ff0f5862f8ba13dc96520c914cb0956cf243753ed0a0c6640ea0ceb884b1ab878d495d7027c04c4c3aaa5cdb011b5ec614fd81c02cd0f88d2704664bde4474a5b3aa88dc045426ec4d1813cff476bb297d878099aab677f2def1bcc27ea7eecdf92b81f4b3105376d600ed669b4a384a4a400c8cadbb1750f6f23023245054e0f0666009cbdd4cee069f6fb49495cee3b39f7cff3224690510dff0a31aab44bf7a8ba4adb958d2bbdfdd8d730867bf1506ddce35c3f2602acf859154f6ed053e4f8292c644dd32c53e808dab22ccb755cbdf720a4f0b640a517093d292d4c1fc3cac77a62202585badb5c7fb7d3cabc1c0a5ee1a2f09cb3583d348ce09bd5d61a47a6987023a249661426c64e6bc1ba0b5c9ff5de92b7da0799da3c1976e8030f126387df5196c1012eb54c98af681f92207c2a0cc1e79c396c37cd92ae85564f4d60071b9775bc2b98b4beb56c30dd32607944373c611d34aee034da0f43c8de79077e6ea422578e9885c02bbc75db3c3327611035465ffd3c098a67b43518539c11b62efa32050897b0e1897e57f2719fe9be78cfb26ac92d426c2247bd7a2df4577e3c252ceba6a2d011ed887019b7655596dfd8724d112cc183d78be21d9b1b23de812f3aa54e1957034816e982d905982d6803865d9edb102f54667117266ae941d607ef01e0965a2496c17e17fd70f02394cef7af61fc24f27873fb7edb1a151bd77a8c8dc376860276cfed888e5f651a09774bb2c2b9a102a69d774414ff58c017cacdf5e8a54f4a47bf4343c242225469867151175e21c6ac9368102695886bdffeb02ee49060bd50250e62cf7b1317c6105d2706b5e255322eb69f67bfba3812e6dbc42f551e72989b91309efef24733220286f29ff0e678a6fc89c6fccd5446ea6da14116da185c6fca4d1b58a81982f412dd9aaef81eb7a808b18dbd3c4d1cb856758371ae4923fda13d3eb679bb4352397d7d49c0b7c3aadce54bb23b56856938b528cd409ce4dce7a78d10ead2db3c22a5e0a96299a8ddfaaf79061419f822470be8b1f8f0f8a0f2d71ace68d23c00cbad1a1d2cc3df0bd1e55b874cb6eb228e87bb488f3656c5d0fd5d817e1afcea1ed121ba48e52132882ce1388b76d8e26a2f691749e1d318d0d0f4004336a5fb1b4b00e654c02e475b214d02b1db265fa</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>实验中学恩情课文</title>
-    <url>/2024/11/04/enqingkewen/</url>
+    <url>/2024/11/04/yi%20shi%20liu/enqingkewen/</url>
     <content><![CDATA[<p>从课堂内外访问回来的陈红妈妈全然不顾身体的疲惫，连夜找我们几个孝子商量教师节给她送花摆拍的安排。谈得晚了，便送我们出门，要门口保安送我们回家。在去大门口的路上，我们说：“陈红妈妈，您回去休息吧，您刚从课堂内外回来。” </p>
 <p>陈红妈妈摇摇头，“不碍事，你们知道现在学校里有很多不知好歹的学生把实验当作敌人，不断给我们制造麻烦，你们是实验的未来，你们的事情便是实验的事情，是头等大事。”我们都激动了，眼里噙着泪花。多好的陈红妈妈呀。 </p>
+<span id="more"></span>
 <p>陈红妈妈远眺着火的食堂说：“如果世界每个人都像我一样点燃教育的一把火而不是食堂的一把火就好了，但是就有一些人，像教育局，要搞垮实验，他们是罪人。” </p>
 <p>说着，陈红妈妈回到校长室，从一排HelloKitty里挑出一只，然后看着食堂说：“该死的教育局。” </p>
 <p>说着她把HelloKitty奋力往前一扔。很快就见食堂的大火迅速平息下来，但是劫火的余烬仍在四处飘散。“这是教育局的在食堂安排的间谍点燃的火，他一直在食堂里面蛰伏，伺机而动，我已经忍了很久了。”陈红妈妈愤愤地说，我们这些孝子都鼓起掌来，为实验有这样的领导人感到自豪。 </p>
@@ -23,23 +46,68 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/10/31/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+    <title>他还有机会</title>
+    <url>/2024/11/04/sui%20bi/anotheropportunity/</url>
+    <content><![CDATA[<p>这周姐姐姐夫来北京玩，带上了孩子还有二姨二姨丈。没错就是春节那篇文章出现过的人物。</p>
 <span id="more"></span>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p>叫我出来吃饭，晚上有个水课，看上去可以翘掉。坐地铁进城一个小时，到的时候有点早人还没来，买了一杯一点点，顺便写了个推文。</p>
+<p>餐桌上兜兜转转又提到了带孩子的问题，还有，我爸妈让二姨他们给我现金。我说我现在也不用现金了，都移动支付，现金给我没用，货币不能流通不利于社会发展。这些不收钱的理由很有我的风格。</p>
+<p>上一代人总是觉得，成功的轨迹可以复制，我那支离破碎的成长轨迹竟也成了亲戚口中所谓的成功。我以前学过围棋，就让孩子去学围棋，同理编程，奥数。我必然要反驳，我还是说那句话，别急，还是那句话，顺其自然，因材施教。</p>
+<p>又提到我暑假去上暑期学校，我姐又问我有没有上韦神的课，作为一个半吊子数学人，我又是很火大，我自然明白这句话意味着什么，这代表媒体所造的神已经深入人心，但这些头衔名号只是外人炒作所需要的，他本人并不需要，他本人只需要保持他的初心，脚踏实地继续做数学。这让我又想起之前看过的人物关于钟芳蓉写的推文，此情此景钟芳蓉与韦东奕并不不同。我在高中那痛苦的写作过程中一直不愿将那尚且在世的所谓名人写入我的文章，我认为这是对生者的侮辱，一种消费，一种恶意的利用。</p>
+<p>好吧这篇文章未必有一个明确主题，因为那两三小时的晚餐让我想起了太多东西，我可能写着写着无比跳跃。</p>
+<p>小朋友一直很吵，在旁边跑来跑去大喊大叫。就算姐姐跟姐夫看上去脸色不好，随时要发火了，小朋友才稍微消停了一会，我也知道实际上姐姐跟姐夫对孩子算挺宽容的，不然小朋友平时根本不会这么活跃。这又要提到二姨之后说的话，他带过我哥我姐还有我，说就我小时候最乖，不用人担心，根本不像那个好动的小朋友。我顿时觉得，挺讽刺的，孩子天性不是好动那应该是什么，为什么我会那么乖，那自然是因为家暴，我对我爸打我的恐惧，因为不乖就要被打，这时我心中又升起了满腔的恨。然而过去了十几年，二姨看上去只记得我的乖，并没有细想过我这乖巧背后的原因。我又想起之前小学的时候，我在洗澡，一不小心把浴室的玻璃门弄碎了，我当时虽然很幸运没有被玻璃划伤，但还是要忍受对被我爸打骂的恐惧，尽管之后他并未如此，但我忍受的恐惧是真实的，我当时在餐桌上的恨又加深了几分。没有无缘无故的，突然的爱，也没有无缘无故的，突然的恨。我也许淡忘了，不能立马记起来恨的原因，但这恨已经成为一种惯性，我同样也会在某些时刻，想起那些让我恨的原因。</p>
+<p>原来我很早开始就已经在打骂教育之下封闭自我放弃了和外界的交流，基本都爱自己一个人看书，看电视，玩电脑。但这些显然没法填补内心被开出来的洞，因而我会在只有一个人在家的时候突然觉得很孤独所以哭出来，在看了很久电视玩了很久电脑之后感觉还是空虚然后哭出来，这都是过去发生的事，而在饭桌上的其他五人，包括那位无忧无虑的小朋友一无所知。</p>
+<p>而作为与外界封闭的人，我自然不懂得如何与人相处，如初中道德与法治书所言，小学毕业来到了一个新的环境，我希望与周围的人建立联系，这是我内心被开出来的洞，我想努力填补。可不懂如何与人相处的我没有一套自己的行事风格，屡屡碰壁，随波逐流，又一度陷入被孤立的境地。幸运的是我接触到了编程，又继续在努力学习数学，我又再次明白周围的人，很多人，这辈子终究无法深交，我越来越参透我是个什么样的人，我终究是个相对孤独的人，我没必要花时间去获得，那周围某些人的认可，包括父母的认可。</p>
+<p>就是在这样支离破碎的情况下，我用着极不稳定的心态学数学，学编程。这不是牺牲我的精神状态去换成果，这是在逃避支离破碎的现实用学习自我麻痹。然后我来到了北航，一个在我亲戚眼里看上去很高的地方，看上去在我爸眼里还不够高的地方，我也因为跟zjp同一个小学却没有去到thu被我爸拿来说事，我为什么不能上thu让我爸闭嘴？但这恨已经无比坚定，它不需要更多的恨来加深，我大一上就没回家，因为我恨这个家。</p>
+<p>我跟我爸为数不多打电话的时候，他说这是你的家，你得回来。我反问他，你觉得身份证上黑字写着的几个地址就是家吗？有趣的是，办身份证的时候地址写错了，写成了隔壁幢的同一个门牌号，没准那个还真可能更像家一点。</p>
+<p>但作为孩子依然希望得到父母的认可，我妈始终是认可我的，她已经是相当合格的一个母亲，只不过因为我是我，我爸是我爸，她跟我们两个的相性没那么好，所以我对她的怨言局限于一小部分问题，而不在全局。</p>
+<p>但看上去20年下来我爸依然没有很认可我，我的一些做法他依然不能认同。看上去除了恨，我的潜意识里还有筋疲力尽地想要得到他些许的让我觉得是认可的认可，不是后来他说我考上北航实际上也让他很骄傲这种，而是当我做出一些勇敢的选择的时候他能认可。罗翔老师在教师节的推文中写到，深思熟虑之后行动，这叫计算，不叫勇敢，尽管未知，却仍去做，这叫勇敢。</p>
+<p>恨终将和那从过去跳动到现在的渴望感同身受认同的心并存。</p>
+<p>这就是我那所谓成功表象之下的现实，二姨他们家当然也或多或少知道我们家的事，但是也只是知晓我爸我妈的视角，并不知道我的视角和我的心路历程。</p>
+<p>我姐又说担心上不了高中，上不了大学。我说别急，先让他成为一个正常的人，我的潜台词是不要只成为了合格的人。我是“合格的”人，不是“正常的”人。说姐夫带孩子躺平，我始终认为姐夫活得非常明白，躺平真没什么问题，而且他显然也不是完全的不管不顾，他的学识和观念的高度我总是能在不经意间窥探到一二，在春节那篇文章我已有所罗列。我也在姐夫离席去小食台拿东西的时候再次跟二姨姨丈强调姐夫活得很明白，姐姐找到了这么好的人真的应该珍惜。</p>
+<p>话语之间，二姨打算缓和我和家里的关系，我说，带出一个不正常的孩子就是完美杀人，因为不需要承担任何法律责任。她说我爸家里不容易，他现在也在尽力弥补我，我自然比她更清楚，但这和他的过错并不矛盾，二者无法抵消，我说他的不容易是客观存在，但他犯的罪也同样客观存在，不会因为他的不容易而消失半分。我又说到大后天，也就是今天，就是我二十岁生日，那时候我就是奔三的人了，我的过去已经成为既定的现实没法改变了，他的弥补只能是弥补现在的我，弥补不了过去的我，而他的缺少感同身受的弥补，我可能也并没有那么需要。我的父母相当不合格，具体一点，我爸，但他们足够幸运，我没有跳楼。而旁边的这个小朋友，他才四五岁，他还有很多可能性，不要成为跟我父母一样不合格的父母，具体一点，我姐，让他活得难受。每个人的童年只有一次，好好待他。</p>
+<p>之后二姨也许大概是哭了，可能觉得我不容易，实际上当我说出这些话的时候我的遗憾并不主要，我更多的，真的是想，告诫我姐跟我姐夫，还有二姨姨丈，眼前的这个孩子，能，正常的，活到他的二十岁，而不是像他眼前的这个人，在二十岁前几天，乃至二十岁之后很多年，还要继续活在过去。</p>
+<p>我要走了，二姨跟着，一边拍我肩膀，一边让我照顾好自己，但我的内心可能也没那么多波澜，该流的泪大概已经都被过去的我流干了，滤干眼泪的残渣，成为压在心上的石头。我走出店门口，向在门口等候剩下的人的姐夫告别，然后走进地铁站。</p>
+<p>在电扶梯上的时候，我姐给我打了个电话，说还有点话想讲，我大概能知道她想说什么。我坐扶梯坐到底又从反方向的扶梯坐上去，我看到我姐进了地铁站，过了一直都很随意的安检，然后拿出手机扫码过闸。见到我她说每个人都不容易，让我不要想太多。但我听不进去，我更希望她把心思花在改变自己的教育理念上。突然之间我才注意到我已经比我姐高了，原来已经过去了这么多年，我也不是当年还得仰视我姐的那个我了。</p>
+<p>叮咛完我听了又没听的叮咛，我向她告别坐上电扶梯。得长途跋涉再坐一次地铁回去，回去还得看课程回放看看晚上翘掉的水课有没有讲一些重要的事情。无论如何见到他们我并不后悔，他们都是具体的人，再见与告别的次数总是有限，我不想因为物理上的距离错过每次可能是此生仅有的机会。</p>
+<p>在我写这篇的时候，我姐还记得我大前天说过的话，给我发了800的红包祝我生日快乐，我没有要，因为这次是她偶然听我说才发我的。钱并不重要，我大概是怕明年的自己，因为没能收到她的祝福而失望，因而今年这次我也不想留下太多念想。</p>
+<p>​</p>
 ]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>溯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>长路漫漫（四）</title>
+    <url>/2024/11/04/sui%20bi/longwaymanman/</url>
+    <content><![CDATA[<p>一年过去了，长路漫漫一直没完结，国庆来临之际我就以流水账的形式草草收个尾吧。</p>
+<span id="more"></span>
+<p>成都，经过那刻骨铭心的一夜之后我对“感同身受”这个词有了更加深刻的理解。</p>
+<p>崩铁线下活动，规模不大，去了几个地方打卡。</p>
+<p>hjs和xr刚好也来成都旅游，找了个地方见面小叙，时间好像被静止在了过去，并没有多少陌生，上次见面甚至是社交软件联系还是在高中，已经是一年加几个月以前了。</p>
+<p>在去西安的火车上，结识了一个有趣的灵魂，互加了微信。君子之交淡如水，去年杭州icpc比赛的时候又见了一次面，他在对话之间敏锐地发现了我的人格问题并加以指出，我一时之间难以改过，但过去的时间里我一直在修正，努力做到peace。</p>
+<p>西安10月已然很冷，穿拖鞋被背刺了。</p>
+<p>进西交大花了一番功夫，感谢czy的善良舍友，值得一提的是他也是穿拖鞋来接我的。</p>
+<p>找了个地方自习，等到晚上跟cxl，cxb，ywx，czy，ywk见面，找了个地方吃烧烤，感谢cxl和cxb的姐姐帮忙排队，之后坐地铁去了大唐不夜城逛逛，clt和ksz好像在别的地方喝酒，没来，唉。拍了若干照片，印象深刻的是与诗歌相关的一些景点，可惜懒得放照片了ovo。夜深告别，之后赶着地铁末班车奔袭到了火车站，火车站灯火通明，让人觉得很温暖很安心，我又想起在成都东站那露宿的夜，人文关怀差距莫过于此。</p>
+<p>坐上了回京的列车。五天五个省会，尽管没有去什么风景名胜打卡，但是联系具体的人，有深刻的生活体验，遍历众生诸相，不虚此行。</p>
+<p>从沙河地铁站出来的时候，我想起几天前开始的kfc跟崩铁的联动，第一天不用去也知道人挤人，几天过去了应该快凉了，去赶个末班车吧。</p>
+<p>想来我这几天，在吃喝上，我几乎尝遍了五个地方的蜜雪冰城6块钱奶茶，他全国上下无论繁华还是荒凉的地方，始终如一的平民价实在很让我这种平民感动，于是一共小花了个6的倍数的钱支持一下。</p>
+<p>长路漫漫就这样完结了。今年很懒，大抵不出去旅游，不过长路漫漫的续集以后还是有机会出的。</p>
+<p>​</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>旅游</tag>
+      </tags>
   </entry>
   <entry>
     <title>随机游走</title>
-    <url>/2024/11/01/hhhhh/</url>
+    <url>/2024/11/01/sui%20bi/random%20walk/</url>
     <content><![CDATA[<h1 id="抬头看"><a href="#抬头看" class="headerlink" title="抬头看"></a>抬头看</h1><p>因为不能飞的限制，我们作为三维生物却只能生活在二维的地球表面。视线所及之处往往只有自己所在的局部二维欧式空间。</p>
 <p>但如果你的脖子尚能够灵活转动可以抬头看看往z轴延伸，世界是什么样的。</p>
 <span id="more"></span>
