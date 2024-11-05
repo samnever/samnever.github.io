@@ -1,6 +1,6 @@
 if (!window.NexT) window.NexT = {};
 
-(function() {
+(function () {
   const className = 'next-config';
 
   const staticConfig = {};
