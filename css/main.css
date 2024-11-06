@@ -1371,7 +1371,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #45fa38;
+  background: #6ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2906,13 +2906,13 @@ header.header {
   display: inline-block;
 }
 body {
-  background: url("/images/totalbg1.png");
+  background: url("https://cdn.luogu.com.cn/upload/image_hosting/ns40izjg.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 100% 100%;
 }
 .sidebar {
-  background: url("/images/sidebarbg.png");
+  background: url("https://cdn.luogu.com.cn/upload/image_hosting/ortcp463.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
