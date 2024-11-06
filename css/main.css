@@ -1371,7 +1371,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #3846b3;
+  background: #45fa38;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2904,4 +2904,36 @@ header.header {
 }
 .sub-menu .menu-item {
   display: inline-block;
+}
+body {
+  background: url("/images/totalbg1.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 100% 100%;
+}
+.sidebar {
+  background: url("/images/sidebarbg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  bottom: 0;
+  position: fixed;
+  top: 0;
+  transition: all 0.2s ease-out;
+  width: $sidebar-desktop;
+  z-index: 20;
+}
+.sidebar a {
+  border-bottom-color: #fff;
+  color: #fff;
+}
+.sidebar a:hover {
+  border-bottom-color: $FFFFFF;
+  color: #fff;
+}
+.site-description {
+  color: #fff;
+}
+.post-meta-item-text {
+  color: #666;
 }
