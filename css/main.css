@@ -1354,7 +1354,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #47dac9;
+  background: #ff9632;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2893,14 +2893,14 @@ header.header {
   display: inline-block;
 }
 body {
-  background: url("/images/04.jpg");
+  background: url("/images/04.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
 }
 .sidebar {
-  background: url("/images/02.jpg");
+  background: url("/images/02.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
